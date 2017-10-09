@@ -1,0 +1,30 @@
+* {margin:0;padding:0;}
+a:link, a:visited, a:hover, a:active {color:#0f0;font-size:16px;}
+body {background:#eee;font-family:verdana;}
+h1 {color:#c0c;font-size:24px;}
+h2 {color:#000:font-size:20px;}
+p {font-size:16px;}
+ul {list-style-type:none;}
+#cabecera {color:#fff;background-color:#999;padding:10px;width:940px;}
+#contenedor {margin:0 auto;width:1200px;}
+#contenido {
+	background:#ddd;
+	float:left;
+	width:750px;
+	height:720px;
+	padding:10px;
+	}
+#menu {
+	background:#999;
+	float:left;
+	width:150px;
+	height:700px;
+	padding:20px;
+	}
+#pie {
+	background:#bbb;
+	clear:both;
+	color:#900;
+	padding:10px;
+	text-align:center;
+	}
