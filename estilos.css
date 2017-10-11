@@ -5,7 +5,8 @@ h1 {color:maroon;font-size:16px;}
 h2 {color:#333;font-size:14px;}
 ul {list-style-type:none;}
 .burdeo {font-size:20px;}
-td {width:100%;}
+td {padding:4px;}
+.td-ancho {width:100%;}
 
 #cabecera {color:#fff;background-color:#999;padding:10px;width:940px;}
 #contenedor {margin:0 auto;width:1200px;}
@@ -13,14 +14,14 @@ td {width:100%;}
 	background:#ddd;
 	float:left;
 	width:750px;
-	height:720px;
+	height:880px;
 	padding:10px;
 	}
 #menu {
 	background:#999;
 	float:left;
 	width:150px;
-	height:700px;
+	height:860px;
 	padding:20px;
 	}
 #pie {
