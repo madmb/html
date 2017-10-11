@@ -1,10 +1,12 @@
 * {margin:0;padding:0;}
-a:link, a:visited, a:hover, a:active {color:#0f0;font-size:16px;}
+a:link, a:visited, a:hover, a:active {color:black;font-size:16px;}
 body {background:#eee;font-family:verdana;}
-h1 {color:#c0c;font-size:24px;}
-h2 {color:#000:font-size:20px;}
-p {font-size:16px;}
+h1 {color:maroon;font-size:16px;}
+h2 {color:#333;font-size:14px;}
 ul {list-style-type:none;}
+.burdeo {font-size:20px;}
+td {width:100%;}
+
 #cabecera {color:#fff;background-color:#999;padding:10px;width:940px;}
 #contenedor {margin:0 auto;width:1200px;}
 #contenido {
